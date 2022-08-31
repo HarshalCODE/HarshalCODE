@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/996557610088140860/1010577915857080341/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)](https://github.com/HarshalCODE/)
 <h1 align="center">Hi 👋, I'm Harshal Waykole .</h1>
-<h3 align="center">💖 Started Learning Coading And Will Developer Usefull Projects , Websites .</h3>
+<h3 align="center">💖 Started Learning Coading And Will Build Usefull Projects , Websites .</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 -  **I’m currently learning C++ , Node.js .**
