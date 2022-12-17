@@ -14,7 +14,7 @@
 -  **<img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="24px" height="20px"> Connect Me On [Discord](https://discordapp.com/users/1010506486386003989) .**
 
 
-[![ Harshals's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=HarshalCODE&&theme=xcode)](https://github.com/HarshalCODE)
+
 
 ## 📊 GITHUB STATISTICS
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalcode&show_icons=true&locale=en&theme=tokyonight" alt="harshalcode" /></p>
